@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="a4e6312e830c5210f1d7f1d6feaad32b" label="Report Issue" max_length="40" name="x_1072057_worksa_0_report_isuuse" type="collection">
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="newfield" max_length="40" name="newfield" type="string"/>
         <element label="Issue Date" max_length="255" name="issue_date" type="glide_date"/>
         <element choice="1" label="Issue Type " max_length="40" name="issue_type" type="choice">
             <choice>

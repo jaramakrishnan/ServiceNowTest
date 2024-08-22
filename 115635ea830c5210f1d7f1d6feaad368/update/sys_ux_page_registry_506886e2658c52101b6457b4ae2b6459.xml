@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>146886e2778c52104a0b81265e3a4d59</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app>
+        <path>worksafe-connect</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:59:33</sys_created_on>
+        <sys_id>506886e2658c52101b6457b4ae2b6459</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkSafe Connect</sys_name>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>sys_ux_page_registry_506886e2658c52101b6457b4ae2b6459</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:59:33</sys_updated_on>
+        <title>WorkSafe Connect</title>
+    </sys_ux_page_registry>
+</record_update>

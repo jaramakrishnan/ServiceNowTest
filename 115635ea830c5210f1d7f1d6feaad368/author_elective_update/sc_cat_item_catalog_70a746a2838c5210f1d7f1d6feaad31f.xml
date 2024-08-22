@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Report a safety issue">03170a62838c5210f1d7f1d6feaad38c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:56:15</sys_created_on>
+        <sys_id>70a746a2838c5210f1d7f1d6feaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report a safety issue</sys_name>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_70a746a2838c5210f1d7f1d6feaad31f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:56:15</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</application>
+        <file_path/>
+        <instance_id>4eac6e8febb34e58cbbffceacad0cd2b</instance_id>
+        <instance_name>dev286983</instance_name>
+        <name>sc_cat_item_catalog_70a746a2838c5210f1d7f1d6feaad31f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report a safety issue">03170a62838c5210f1d7f1d6feaad38c</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-19 04:56:15</sys_created_on><sys_id>70a746a2838c5210f1d7f1d6feaad31f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Report a safety issue</sys_name><sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package><sys_policy/><sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope><sys_update_name>sc_cat_item_catalog_70a746a2838c5210f1d7f1d6feaad31f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-19 04:56:15</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1943106861</payload_hash>
+        <record_name>Service Catalog.Report a safety issue</record_name>
+        <reverted_from/>
+        <source>195635ea830c5210f1d7f1d6feaad39e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:56:15</sys_created_on>
+        <sys_id>38a746a2838c5210f1d7f1d6feaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19168fe33e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:56:15</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>78a746a24f8c5210150a03f59da8b721</update_guid>
+        <update_guid_history>78a746a24f8c5210150a03f59da8b721:1943106861</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Report a safety issue">01f7caa2838c5210f1d7f1d6feaad3e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:57:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0cbbb29a76984f528cbb7359308f9c24</sys_id>
+        <sys_metadata>70a746a2838c5210f1d7f1d6feaad31f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report a safety issue</sys_name>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_parent display_value="Report a safety issue">03170a62838c5210f1d7f1d6feaad38c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_scope_delete display_value="">6fadc3c3f773466ea15d8b4a383f3d51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_70a746a2838c5210f1d7f1d6feaad31f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_70a746a2838c5210f1d7f1d6feaad31f">38a746a2838c5210f1d7f1d6feaad322</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:57:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

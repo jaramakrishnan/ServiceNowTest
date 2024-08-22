@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="146886e26e8c5210e114eed6e550968a" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1072057_worksa_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:59:30</sys_created_on>
+            <sys_id>986886e21a8c52104add722b914f4a89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="d46886e2e18c5210715d7a662aa29489">146886e26e8c5210e114eed6e550968a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:59:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:59:30</sys_created_on>
+            <sys_id>dc6886e2458c5210c0c86ce6334abe89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="d46886e2e18c5210715d7a662aa29489">146886e26e8c5210e114eed6e550968a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:59:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>146886e26e8c5210e114eed6e550968a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+            <sys_update_name>sys_ui_section_146886e26e8c5210e114eed6e550968a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:59:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1072057_worksa_0)" name="custom_portal_approval_x_1072057_worksa_0">d46886e2e18c5210715d7a662aa29489</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

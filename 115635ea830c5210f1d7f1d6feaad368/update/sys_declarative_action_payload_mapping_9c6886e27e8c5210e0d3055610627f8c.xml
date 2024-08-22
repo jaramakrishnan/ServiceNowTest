@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Approve">946886e2968c5210144364c7d10bf98e</action_payload_definition>
+        <label>Approve Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <required_translations/>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:59:31</sys_created_on>
+        <sys_id>9c6886e27e8c5210e0d3055610627f8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve Evam</sys_name>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_9c6886e27e8c5210e0d3055610627f8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:59:31</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

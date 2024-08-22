@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_definition">
+    <sys_declarative_action_payload_definition action="INSERT_OR_UPDATE">
+        <action_key>MY_TASKS_APPROVE_ACTION</action_key>
+        <applicable_to>035d270073151010c342d5fdbdf6a715</applicable_to>
+        <description/>
+        <label>Approve</label>
+        <payload_field_table>var__m_sys_declarative_action_payload_field_946886e2968c5210144364c7d10bf98e</payload_field_table>
+        <payload_template>{&#13;
+        "table": "{{table}}",&#13;
+        "sysId": "{{sys_id}}"&#13;
+}</payload_template>
+        <sys_class_name>sys_declarative_action_payload_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:59:32</sys_created_on>
+        <sys_id>946886e2968c5210144364c7d10bf98e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_definition_946886e2968c5210144364c7d10bf98e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:59:32</sys_updated_on>
+    </sys_declarative_action_payload_definition>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a4e6312e830c5210f1d7f1d6feaad32b" label="Report Issue" max_length="40" name="x_1072057_worksa_0_report_isuuse" type="collection">
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Issue Date" max_length="255" name="issue_date" type="glide_date"/>
+        <element choice="1" label="Issue Type " max_length="40" name="issue_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Firesafety" sequence="1" value="firesafety"/>
+                <element inactive_on_update="false" label="Slip" sequence="2" value="slip"/>
+                <element inactive_on_update="false" label="Trip" sequence="3" value="trip"/>
+                <element inactive_on_update="false" label="Hazardous" sequence="0" value="hazardous"/>
+                <element inactive_on_update="false" label="Equipment Malfunction" sequence="4" value="equipment_malfunction"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Issue Description" max_length="40" name="issue_description" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Verified" sequence="4" value="verified"/>
+                <element inactive_on_update="false" label="Reported" sequence="0" value="reported"/>
+                <element inactive_on_update="false" label="Analysis In Progress" sequence="1" value="analysis_in_progress"/>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="closed"/>
+                <element inactive_on_update="false" label="Action In Progress" sequence="2" value="action_in_progress"/>
+                <element inactive_on_update="false" label="Action Taken" sequence="3" value="action_taken"/>
+            </choice>
+        </element>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Reported By" max_length="32" name="reported_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="reported_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">9c6886e28e8c5210d1a2723a1b053f8f</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">146886e2d48c52105c077f439ab86586</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:59:31</sys_created_on>
+        <sys_id>d46886e20c8c521007a105edac519986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_d46886e20c8c521007a105edac519986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:59:31</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

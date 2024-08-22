@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What type of safety equipment are you requesting">27f04e6a834c5210f1d7f1d6feaad30f</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:34:26</sys_created_on>
+        <sys_id>59a28eea834c5210f1d7f1d6feaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Glasses</sys_name>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>question_choice_59a28eea834c5210f1d7f1d6feaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:34:26</sys_updated_on>
+        <text>Safety Glasses</text>
+        <value>safety_glasses</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=59a28eea834c5210f1d7f1d6feaad345"/>
+</record_update>

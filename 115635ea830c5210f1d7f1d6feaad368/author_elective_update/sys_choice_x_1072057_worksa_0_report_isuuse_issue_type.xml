@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="issue_type" table="x_1072057_worksa_0_report_isuuse" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>issue_type</element>
+            <name>x_1072057_worksa_0_report_isuuse</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:02:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>issue_type</sys_name>
+            <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+            <sys_update_name>sys_choice_x_1072057_worksa_0_report_isuuse_issue_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:02:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hazardous</label>
+            <language>en</language>
+            <name>x_1072057_worksa_0_report_isuuse</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:02:16</sys_updated_on>
+            <value>hazardous</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Firesafety</label>
+            <language>en</language>
+            <name>x_1072057_worksa_0_report_isuuse</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:02:16</sys_updated_on>
+            <value>firesafety</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Slip</label>
+            <language>en</language>
+            <name>x_1072057_worksa_0_report_isuuse</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:02:16</sys_updated_on>
+            <value>slip</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trip</label>
+            <language>en</language>
+            <name>x_1072057_worksa_0_report_isuuse</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:02:16</sys_updated_on>
+            <value>trip</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Equipment Malfunction</label>
+            <language>en</language>
+            <name>x_1072057_worksa_0_report_isuuse</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-19 04:02:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-19 04:02:16</sys_updated_on>
+            <value>equipment_malfunction</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

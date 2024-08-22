@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>now-logo-dark</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:59:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c6886e2b68c521003409620e8ffd05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now-logo-dark</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WorkSafe Connect" source="x_1072057_worksa_0">115635ea830c5210f1d7f1d6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkSafe Connect">115635ea830c5210f1d7f1d6feaad368</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_1c6886e2b68c521003409620e8ffd05a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:59:31</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ServiceNow_logo_GG.png</file_name>
+        <hash>3adf8faeb55a761e53bd75370f757907171b0f9e7305c8663dcddcc8a297871c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>9149</size_bytes>
+        <size_compressed>9023</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 04:59:31</sys_created_on>
+        <sys_id>dc6886e2d78c5210785dbf8a6b447c5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 04:59:31</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>1c6886e2b68c521003409620e8ffd05a</table_sys_id>
+    </sys_attachment>
+</record_update>
